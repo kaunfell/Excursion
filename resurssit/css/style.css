@@ -5,8 +5,10 @@ html, body {
     font-size: 16px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
+
 }
 
+/*Header*/
 .header {
     font-size: 3.125rem;
 }
@@ -14,4 +16,37 @@ html, body {
 .download {
     color: aquamarine;
 
+}
+
+
+
+
+
+/*Picture/middle-area*/
+
+.middletitle {
+    font-size: 2.625rem;
+    font-weight: 300;
+}
+
+.middlep {
+    color: gray;
+    font-size:  1.313rem;
+}
+
+
+/*Footer area*/
+
+.endtitle {
+    font-size: 2.625rem;
+    font-weight: 300;
+}
+
+.phone {
+padding: 2%;
+}
+
+.footer {
+    color: gray;
+    text-align: right;
 }
